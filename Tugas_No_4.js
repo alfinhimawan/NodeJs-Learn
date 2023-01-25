@@ -36,5 +36,5 @@ app.post("/bmi", (req, res) => {
 })
 
 app.listen(8000, () => {
-    console.log("Server dijalankan pada port 8000");
+    console.log("Servedijalankan pada port 8000");
 })
